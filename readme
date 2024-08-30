@@ -1,0 +1,68 @@
+Library Management System
+
+Welcome. This program helps you manage a library with books, users, and authors.
+
+How to Run the Program
+
+Open Visual Studio Code (VS Code).
+
+Open a new Terminal
+
+Run the Program:
+
+In the terminal, type python main.py and press Enter.
+This will start the Library Management System.
+Using the Program
+When you start the program, you’ll see a menu with options. Here’s how to use each part:
+
+Main Menu Options
+Book Operations: Manage books in the library.
+User Operations: Manage users of the library.
+Author Operations: Manage authors.
+Quit: Exit the program.
+Book Operations
+Choose 1 for book-related actions:
+
+Add a New Book:
+
+Enter the book’s title, the author’s name, the book’s ISBN, and the publication date.
+Borrow a Book:
+
+Type the book title you want to borrow.
+Enter your library ID.
+Return a Book:
+
+Type the book title you want to return.
+Enter your library ID.
+Search for a Book:
+
+Type the book title to find it.
+Display All Books:
+
+See a list of all the books in the library.
+User Operations
+Choose 2 for user-related actions:
+
+Add a New User:
+
+Enter the user’s name and their library ID.
+View User Details:
+
+Enter a user’s library ID to see their details and the books they have borrowed.
+Display All Users:
+
+See a list of all users in the library.
+Author Operations
+Choose 3 for author-related actions:
+
+Add a New Author:
+
+Enter the author’s name and a short biography about them.
+View Author Details:
+
+Enter the author’s name to see their details.
+Display All Authors:
+
+See a list of all authors.
+Quit the Program
+Choose 4 to exit the program when you’re done.
